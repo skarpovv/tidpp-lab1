@@ -1,1 +1,17 @@
-12345
+commit 15a2f1ae3e544e7313f758e8b79cae90f6598d58 (HEAD -> master, origin/master)
+Author: Serghei Carpov <72975289+skarpovv@users.noreply.github.com>
+Date:   Wed Sep 7 09:05:32 2022 +0300
+
+    Create TEXT.txt
+
+commit 2b60300149145bc019b3302afff5195135f152f5 (origin/branch2, branch2)
+Author: Serghei Carpov <c.serghei@bend.md>
+Date:   Wed Sep 7 08:43:15 2022 +0300
+
+    add from branch2
+
+commit eef2302a8fa0a67d0468b1e48947c0e8379053f1 (origin/branch5, origin/branch4, origin/branch3, branch5, branch4, branch3)
+Author: Serghei Carpov <c.serghei@bend.md>
+Date:   Wed Sep 7 08:35:12 2022 +0300
+
+    first commit
